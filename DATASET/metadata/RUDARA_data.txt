@@ -1,0 +1,15 @@
+📁 Deepfake Video Dataset Overview
+
+This dataset is a curated combination of videos from 3 popular deepfake datasets, combined to build a stronger training/test environment.
+
+Sources:
+- FaceForensics++: 2000 videos
+- Deepfake Detection Challenge (DFDC): 3000 videos
+- Celeb-DF: 1000 videos
+
+📦 Total: 6000 videos
+
+🔗 Google Drive Link:
+https://drive.google.com/drive/folders/1WoCykd-dNAXJkB_YW-Unee4bhFQpDz3S?usp=drive_link
+
+Each video is labeled as either "Real" or "Fake", with metadata included for model training.
